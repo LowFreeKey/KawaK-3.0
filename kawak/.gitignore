@@ -1,0 +1,14 @@
+
+# Frontend modules
+node_modules
+node_modules
+
+# dfx junks
+.dfx/
+dist
+dist/kawak_assets
+src/declarations
+
+#unknown
+.idea
+.history
